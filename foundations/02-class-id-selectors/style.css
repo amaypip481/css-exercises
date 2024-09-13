@@ -1,0 +1,20 @@
+.NumberOne {
+
+    background-color: rgb(226, 191, 236);
+    font-family: Verdana, "DejaVu San", sans-serif ;
+}
+
+#NumberTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.NumberOne.NumberThree {
+    font-size: 24px;
+}
+
+#NumberFour {
+    background-color: rgb(151, 230, 140);
+    font-size: 24px;
+    font-weight: 700;
+}
